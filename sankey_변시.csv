@@ -1,0 +1,13 @@
+source,target,value
+General-HS,Non-SKY,2897
+General-HS,SKY,2774
+Special-HS,Non-SKY,431
+Special-HS,SKY,1044
+Non-SKY,Non-SKY-LS,3175
+Non-SKY,SKY-LS,153
+SKY,Non-SKY-LS,2354
+SKY,SKY-LS,1464
+Non-SKY-LS,Non-Judge-Prosecutor,5181
+Non-SKY-LS,Judge-Prosecutor,348
+SKY-LS,Non-Judge-Prosecutor,1403
+SKY-LS,Judge-Prosecutor,214
