@@ -135,7 +135,7 @@ resources:
     -   [qmd source file at GitHub](https://github.com/quarto-dev/quarto-web/blob/main/docs/presentations/revealjs/demo/index.qmd)
 
 
-## Tabsets {.smaller .scrollable}
+## Tabsets 샘플 in Quarto Demo {.smaller .scrollable}
 
 ::: panel-tabset
 ### Plot
@@ -154,7 +154,7 @@ knitr::kable(mtcars)
 ```
 :::
 
-## Tabsets {.smaller .scrollable}
+## Tabsets 활용 사례 생각해보기 {.smaller .scrollable}
 
 ::: panel-tabset
 ### 문제
@@ -303,8 +303,6 @@ leaflet() %>%
 
 
 
-
-
 ## Preview Links and 편리한 Zoom 기능
 
 -   Navigate to hyperlinks without disrupting the flow of your presentation.
@@ -321,11 +319,8 @@ leaflet() %>%
 **Alt + Click**
 :::
 
-## Chalkboard {chalkboard-buttons="true"}
 
-::: {style="margin-bottom: 0.9em;"}
-Free form drawing and slide annotations
-:::
+## 칠판 및 판서 기능 {chalkboard-buttons="true"}
 
 ::: {layout="[1, 20]"}
 ![](images/presentation-chalkboard.png){width="41"}
